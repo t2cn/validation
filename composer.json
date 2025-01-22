@@ -24,8 +24,7 @@
   "require": {
     "php": "^8.2",
     "respect/stringifier": "^0.2.0",
-    "symfony/polyfill-mbstring": "^1.2",
-    "ext-fileinfo": "File Information"
+    "symfony/polyfill-mbstring": "^1.2"
   },
   "require-dev": {
     "egulias/email-validator": "^3.0",
